@@ -1,2 +1,2 @@
 # CPT112
-User-centred Design (COSC2653 )
+User-centred Design (COSC2653)
